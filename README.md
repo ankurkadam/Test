@@ -1,2 +1,3 @@
 # Test
-?,khvcxvghjkl;
+?,khvcxvghjkl; bash to local...
+2. local to bashgit  
